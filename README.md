@@ -1,48 +1,57 @@
-# Hi 👋, I'm Ashish Patel
+# 👋 Hi, I'm Ashish Patel
 
-### 🚀 Aspiring AI/ML Engineer | Python & Data Analytics Enthusiast
+### 🚀 Aspiring AI/ML Engineer | Python | Data Analytics
 
 🎓 B.Tech in Computer Science  
-🐍 Passionate about Python, Data Analytics & Machine Learning  
-📊 Interested in Data Analysis, Data Visualization & AI  
+🐍 Python & Data Analytics Enthusiast  
+📊 Interested in Data Science, Machine Learning & AI  
 🌱 Currently learning Machine Learning & Artificial Intelligence  
-💻 Also familiar with HTML, CSS, JavaScript & React.js  
+💻 Familiar with HTML, CSS, JavaScript & React.js  
 
 ---
 
 ## 👨‍💻 About Me
 
+I'm a Computer Science graduate passionate about **Python, Data Analytics, Machine Learning and Artificial Intelligence**.
+
+I enjoy working with data, building projects, learning new technologies and solving real-world problems through programming and data-driven solutions.
+
 - 🔭 Currently working on **Python & Data Analytics projects**
-- 🌱 Learning **Machine Learning & Artificial Intelligence**
+- 🌱 Currently learning **Machine Learning & AI**
 - 🐍 Working with **Python, NumPy & Pandas**
-- 📊 Exploring **Data Visualization using Matplotlib & Seaborn**
-- 🗄️ Learning and practicing **SQL**
-- 💡 Interested in solving real-world problems using data
-- 🎯 My goal is to become an **AI/ML Engineer**
+- 📊 Learning **Data Analysis & Data Visualization**
+- 🗄️ Practicing **SQL**
+- 🤖 Exploring **Machine Learning**
+- 🎯 Goal: Become an **AI/ML Engineer**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 ### 🐍 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 Data Analytics & Visualization
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Database
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,39 +62,48 @@
 ## 📚 Currently Learning
 
 - 🐍 Advanced Python
-- 📊 Pandas & NumPy
-- 📈 Matplotlib & Seaborn
-- 🗄️ SQL
+- 📊 Data Analysis with Pandas & NumPy
+- 📈 Data Visualization with Matplotlib & Seaborn
+- 🗄️ SQL & Database Concepts
 - 📐 Statistics for Data Science
 - 🤖 Machine Learning
 - 🧠 Artificial Intelligence
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📊 Data Analytics Projects
-Data cleaning, EDA, analysis and visualization using Python, Pandas, NumPy, Matplotlib and Seaborn.
+
+Data cleaning, data preprocessing, EDA and visualization using:
+
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
 
 ### 🤖 Machine Learning Projects
-Machine learning projects involving data preprocessing, feature analysis, model training and prediction.
+
+Working on projects involving:
+
+**Data Preprocessing • Feature Analysis • Model Training • Prediction**
 
 ### 🐍 Python Projects
-Python projects focused on programming fundamentals, OOP, automation and problem solving.
+
+Python projects focused on:
+
+**Programming • OOP • Problem Solving • Automation**
 
 ### 🌐 Web Development Projects
-Frontend projects developed using HTML, CSS, JavaScript and React.js.
+
+Frontend projects using:
+
+**HTML • CSS • JavaScript • React.js**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish7415&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7415&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish7415&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7415&layout=compact&theme=radical&hide_border=false" height="180" />
 </p>
 
 ---
@@ -93,7 +111,15 @@ Frontend projects developed using HTML, CSS, JavaScript and React.js.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashish7415&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashish7415&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish7415&theme=react-dark&hide_border=false" />
 </p>
 
 ---
@@ -102,22 +128,28 @@ Frontend projects developed using HTML, CSS, JavaScript and React.js.
 
 <p align="center">
 
-<a href="YOUR_PUBLIC_LINKEDIN_PROFILE_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/analytics/profile-views/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ashish7415">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+## 💡 My Goal
 
-> "Learning never stops. Every line of code is a step toward becoming better."
+> 🚀 Learn continuously, build meaningful projects and grow into a skilled AI/ML Engineer.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **If you find my projects interesting, feel free to explore my repositories!**
+
+### Thanks for visiting my GitHub profile! 🙌
